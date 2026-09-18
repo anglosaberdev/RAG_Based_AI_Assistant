@@ -471,7 +471,7 @@ Possible next steps for the project:
 A special thanks to the creator of the tutorial that helped guide the development and learning process behind this project.
 
 🎥 **Tutorial:**
-https://www.youtube.com/watch?v=uLrReyH5cu0&t=3529s
+https://www.youtube.com/watch?v=WUUujm1MRQg
 
 I used the tutorial as a learning reference to better understand how the different components of a practical RAG application can be connected together.
 
